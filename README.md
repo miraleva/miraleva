@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Almira 👋</h1>
+<h1 align="center">Hi, I'm Almira (❀❛ ֊ ❛„)</h1>
 
 <p align="center">
-  Yazılım Mühendisliği öğrencisi · LLM & Full-Stack geliştirici · Ankara
+  Yazılım Mühendisliği öğrencisi · LLM & Full-Stack geliştirici · Ankara · Antalya
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
 
 | Proje | Açıklama | Teknolojiler |
 |-------|----------|--------------|
-| [ARFID Assistant](https://github.com/miraleva/arfid) | ARFID benzeri beslenme davranışları için yapay zeka destekli konuşma asistanı | Python, LLM, RAG, SQLite |
+| [ARFID Assistant](https://github.com/miraleva/arfid) | ARFID benzeri beslenme davranışları için yapay zeka destekli konuşma asistanı | Python, LLM, SQLite |
 | [Hotel Booking Platform](https://github.com/esra-atld/react-website) | B2C otel rezervasyon platformu | React, Tailwind CSS, REST API |
 | [CPU Scheduling Simulator](https://github.com/miraleva/cpuScheduler) | 4 farklı CPU scheduling algoritması simülatörü | Java, GUI, CLI |
 
